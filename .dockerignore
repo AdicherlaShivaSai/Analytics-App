@@ -1,0 +1,13 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+
+# Local Environment
+.env
+
+# IDE / OS
+.vscode
+npm-debug.log
