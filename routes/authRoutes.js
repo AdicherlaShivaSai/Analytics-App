@@ -33,7 +33,7 @@ router.get('/google/callback',
   (req, res) => {
     // Successful authentication
     // this redirect them to your frontend dashboard
-    res.redirect('http://localhost:3000/api/auth/profile'); // For testing
+    res.redirect('https://analytics-app-nmox.onrender.com/api/auth/profile'); // For testing
   }
 );
 
